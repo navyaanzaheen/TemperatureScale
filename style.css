@@ -1,0 +1,57 @@
+/* body{
+    text-align: center;
+    background-color: orange;
+}
+
+
+
+#container{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+
+input{
+    padding-bottom:20px;
+    margin-left: 10px;
+}
+
+
+p{
+   font-size: x-large;
+} */
+
+
+
+h4{
+    font-family:"Liberation Mono", "Courier New", monospace;
+
+}
+
+
+
+span{
+
+font-size: medium;
+}
+
+
+#formula{
+    color:orangered;
+    padding-left:9rem;
+}
+    
+#solution{
+    color:orangered;
+    padding-left:9rem;
+
+}
+
+#ans{
+    padding-left: 9rem;
+    color:orangered;
+}
+
+.temper{
+    color:orangered;
+}
